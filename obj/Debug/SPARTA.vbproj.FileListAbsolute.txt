@@ -1,0 +1,785 @@
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\bin\Debug\Guna.UI.dll
+c:\users\jessie rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Data.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Web.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Data.dll
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Web.dll
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Jessie Rhic\Downloads\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+C:\Users\Jessie Rhic\documents\visual studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySql.Data.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySql.Web.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-20-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySql.Data.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySql.Web.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 9-30-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySql.Data.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySql.Web.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-8-21\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySql.Data.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySql.Web.dll
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Jessie Rhic\Documents\Visual Studio 2015\Projects\Sparta 10-25-21\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+C:\Users\Joemar\Desktop\SPARTA\SPARTA\obj\Debug\SPARTA.ScheduleOfAmortization.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.ScheduleOfAmortization.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\FlashControlV71.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\stdole.dll
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.frmSTA_CrystalReport.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\obj\Debug\SPARTA.frmSCA_CrystalReport.resources
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CR_SCA.rpt
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CR_STA.rpt
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CR_SCA.vb
+C:\Users\Joemar\Documents\Visual Studio 2015\Projects\SPARTA\SPARTA\bin\Debug\CR_STA.vb
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CR_SCA.rpt
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CR_STA.rpt
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CR_SCA.vb
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CR_STA.vb
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Shared.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\FlashControlV71.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\ShockwaveFlashObjects.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\stdole.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.frmSCA_CrystalReport.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.frmSTA_CrystalReport.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.ScheduleOfAmortization.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\ClosedXML.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.dll
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\ClosedXML.pdb
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\ClosedXML.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.xml
+D:\File ni jess\OJT\Sparta\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.frmSCA_CrystalReport.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.frmSTA_CrystalReport.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.ScheduleOfAmortization.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CR_SCA.rpt
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CR_STA.rpt
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CR_SCA.vb
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CR_STA.vb
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\ClosedXML.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Shared.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\FlashControlV71.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\ShockwaveFlashObjects.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\stdole.dll
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\ClosedXML.pdb
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\ClosedXML.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\File ni jess\OJT\Sparta 11-25\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CR_SCA.rpt
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CR_STA.rpt
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CR_SCA.vb
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CR_STA.vb
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\ClosedXML.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Shared.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\FlashControlV71.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\ShockwaveFlashObjects.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\stdole.dll
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\ClosedXML.pdb
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\ClosedXML.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.frmSCA_CrystalReport.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.frmSTA_CrystalReport.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.ScheduleOfAmortization.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.SOA.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+D:\File ni jess\OJT\Sparta 11-29\SPARTA\SPARTA\obj\Debug\SPARTA.LoanAccounts.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CR_SCA.rpt
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CR_STA.rpt
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CR_SCA.vb
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CR_STA.vb
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\ClosedXML.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\FlashControlV71.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\stdole.dll
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\ClosedXML.pdb
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\ClosedXML.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.frmSCA_CrystalReport.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.frmSTA_CrystalReport.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.LoanAccounts.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.ScheduleOfAmortization.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+C:\Users\Joemar\Desktop\sparta 11-30\SPARTA\SPARTA\obj\Debug\SPARTA.AccountDeletion.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CR_SCA.rpt
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CR_STA.rpt
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CR_SCA.vb
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CR_STA.vb
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\ClosedXML.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\FlashControlV71.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\ShockwaveFlashObjects.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\stdole.dll
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\ClosedXML.pdb
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\ClosedXML.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.frmSCA_CrystalReport.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.frmSTA_CrystalReport.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.LoanAccounts.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.ScheduleOfAmortization.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.AccountDeletion.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+C:\Sparta System\_APP\Sparta\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
+D:\SPARTA\SPARTA\bin\Debug\SPARTA.exe.config
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.exe
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.xml
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.pdb
+D:\SPARTA\SPARTA\bin\Debug\CR_SCA.rpt
+D:\SPARTA\SPARTA\bin\Debug\CR_STA.rpt
+D:\SPARTA\SPARTA\bin\Debug\CR_SCA.vb
+D:\SPARTA\SPARTA\bin\Debug\CR_STA.vb
+D:\SPARTA\SPARTA\bin\Debug\SPARTA.exe
+D:\SPARTA\SPARTA\bin\Debug\SPARTA.pdb
+D:\SPARTA\SPARTA\bin\Debug\SPARTA.xml
+D:\SPARTA\SPARTA\bin\Debug\ClosedXML.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Shared.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.dll
+D:\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.dll
+D:\SPARTA\SPARTA\bin\Debug\FlashControlV71.dll
+D:\SPARTA\SPARTA\bin\Debug\FontAwesome.Sharp.dll
+D:\SPARTA\SPARTA\bin\Debug\Guna.UI2.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SPARTA\SPARTA\bin\Debug\ShockwaveFlashObjects.dll
+D:\SPARTA\SPARTA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SPARTA\SPARTA\bin\Debug\stdole.dll
+D:\SPARTA\SPARTA\bin\Debug\ClosedXML.pdb
+D:\SPARTA\SPARTA\bin\Debug\ClosedXML.xml
+D:\SPARTA\SPARTA\bin\Debug\DocumentFormat.OpenXml.xml
+D:\SPARTA\SPARTA\bin\Debug\ExcelNumberFormat.xml
+D:\SPARTA\SPARTA\bin\Debug\MySql.Data.xml
+D:\SPARTA\SPARTA\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\SPARTA\SPARTA\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\SPARTA\SPARTA\bin\Debug\MySql.Web.xml
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.vbprojResolveAssemblyReference.cache
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.SPARTA.exe.config
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.About.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Accounts.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.ActivityLog.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Admin.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.AdminDashboard.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Archive.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Borrower.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Dashboard.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Del.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Delinquency.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.FamilyBackground.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Form1.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.frmSCA_CrystalReport.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.frmSTA_CrystalReport.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.LoanAccounts.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Resources.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.NewFinancing.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Registration.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.RFRM.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.ScheduleOfAmortization.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.AccountDeletion.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.StatementOfAccount.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.UpdateBorrower.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Update_DeleteAcc.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.Work.resources
+D:\SPARTA\SPARTA\obj\Debug\SPARTA.vbproj.GenerateResource.Cache
